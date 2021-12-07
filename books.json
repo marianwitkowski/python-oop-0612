@@ -23,7 +23,11 @@
    "author": "Tolstoy, Leo",
    "year_written": 1875,
    "edition": "Penguin",
-   "price": 13.5
+   "price": 13.5,
+   "translator" : {
+      "name" : "Jan Kowalski",
+      "verified" : false
+    }
 }, {
    "title": "Mrs. Dalloway",
    "author": "Woolf, Virginia",
